@@ -1,5 +1,19 @@
 # Changelog
 
+## [2.9.0](https://github.com/ublue-os/bluefin/compare/v2.8.0...v2.9.0) (2024-06-06)
+
+
+### Features
+
+* add skanpage and simple-scan ([#1368](https://github.com/ublue-os/bluefin/issues/1368)) ([77ffb28](https://github.com/ublue-os/bluefin/commit/77ffb2870e51d35a29cdd042f8b669c1cc94f1d2))
+* **motd:** add link to feedback survey ([#1370](https://github.com/ublue-os/bluefin/issues/1370)) ([daaca5c](https://github.com/ublue-os/bluefin/commit/daaca5c7fcba258500f33f537953088c37cd863c))
+
+
+### Bug Fixes
+
+* broken path in brew setup script for fish ([#1365](https://github.com/ublue-os/bluefin/issues/1365)) ([379ca28](https://github.com/ublue-os/bluefin/commit/379ca2821d9b8361e5d31830f3a12522ad798ab5))
+* fix bad fastfetch output in kitty ([#1364](https://github.com/ublue-os/bluefin/issues/1364)) ([6a87517](https://github.com/ublue-os/bluefin/commit/6a875177c62f12a1f572af96667332857a1ab8b1))
+
 ## [2.8.0](https://github.com/ublue-os/bluefin/compare/v2.7.0...v2.8.0) (2024-06-01)
 
 
